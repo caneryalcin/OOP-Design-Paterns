@@ -1,0 +1,6 @@
+C:\Users\caner\OneDrive\Masaüstü\templetedesignpattern\templetedesignpattern\bin\Debug\templetedesignpattern.exe.config
+C:\Users\caner\OneDrive\Masaüstü\templetedesignpattern\templetedesignpattern\bin\Debug\templetedesignpattern.exe
+C:\Users\caner\OneDrive\Masaüstü\templetedesignpattern\templetedesignpattern\bin\Debug\templetedesignpattern.pdb
+C:\Users\caner\OneDrive\Masaüstü\templetedesignpattern\templetedesignpattern\obj\Debug\templetedesignpattern.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\templetedesignpattern\templetedesignpattern\obj\Debug\templetedesignpattern.exe
+C:\Users\caner\OneDrive\Masaüstü\templetedesignpattern\templetedesignpattern\obj\Debug\templetedesignpattern.pdb

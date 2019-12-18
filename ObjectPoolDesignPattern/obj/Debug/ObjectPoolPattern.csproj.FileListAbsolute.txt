@@ -1,0 +1,6 @@
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\ObjectPoolPattern\obj\Debug\ObjectPoolPattern.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\ObjectPoolPattern\bin\Debug\ObjectPoolPattern.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\ObjectPoolPattern\bin\Debug\ObjectPoolPattern.exe
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\ObjectPoolPattern\bin\Debug\ObjectPoolPattern.pdb
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\ObjectPoolPattern\obj\Debug\ObjectPoolPattern.exe
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\ObjectPoolPattern\obj\Debug\ObjectPoolPattern.pdb

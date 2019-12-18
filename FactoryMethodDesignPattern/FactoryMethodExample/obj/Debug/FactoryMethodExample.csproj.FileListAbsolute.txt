@@ -1,0 +1,12 @@
+C:\Users\caner\OneDrive\Masaüstü\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe.config
+C:\Users\caner\OneDrive\Masaüstü\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe
+C:\Users\caner\OneDrive\Masaüstü\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.pdb
+C:\Users\caner\OneDrive\Masaüstü\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.exe
+C:\Users\caner\OneDrive\Masaüstü\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.csprojResolveAssemblyReference.cache

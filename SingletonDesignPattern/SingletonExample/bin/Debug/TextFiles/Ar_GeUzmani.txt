@@ -1,0 +1,4 @@
+﻿Adı: Kadir
+Soyadı: Meşe
+Yaşı: 40
+İzin Günü Sayısı: 20

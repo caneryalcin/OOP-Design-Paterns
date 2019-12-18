@@ -1,0 +1,6 @@
+C:\Users\caner\OneDrive\Masaüstü\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\caner\OneDrive\Masaüstü\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\caner\OneDrive\Masaüstü\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\caner\OneDrive\Masaüstü\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\caner\OneDrive\Masaüstü\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb

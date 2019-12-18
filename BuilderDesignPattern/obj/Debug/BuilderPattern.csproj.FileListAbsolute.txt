@@ -1,0 +1,5 @@
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\BuildPattern\bin\Debug\BuildPattern.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\BuildPattern\bin\Debug\BuildPattern.exe
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\BuildPattern\bin\Debug\BuildPattern.pdb
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\BuildPattern\obj\Debug\BuildPattern.exe
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\BuildPattern\obj\Debug\BuildPattern.pdb

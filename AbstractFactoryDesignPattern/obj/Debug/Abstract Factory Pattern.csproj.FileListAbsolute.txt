@@ -1,0 +1,6 @@
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\Tasarım Desneleri-Odev2\bin\Debug\Tasarım Desneleri-Odev2.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\Tasarım Desneleri-Odev2\bin\Debug\Tasarım Desneleri-Odev2.exe
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\Tasarım Desneleri-Odev2\bin\Debug\Tasarım Desneleri-Odev2.pdb
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\Tasarım Desneleri-Odev2\obj\Debug\Tasarım Desneleri-Odev2.exe
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\Tasarım Desneleri-Odev2\obj\Debug\Tasarım Desneleri-Odev2.pdb
+C:\Users\caner\OneDrive\Masaüstü\Tasarım Desneleri-Odev2\Tasarım Desneleri-Odev2\obj\Debug\Abstract Factory Pattern.csprojResolveAssemblyReference.cache

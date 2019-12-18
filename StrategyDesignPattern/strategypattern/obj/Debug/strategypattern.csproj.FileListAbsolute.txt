@@ -1,0 +1,6 @@
+C:\Users\caner\OneDrive\Masaüstü\strategypattern\strategypattern\bin\Debug\strategypattern.exe.config
+C:\Users\caner\OneDrive\Masaüstü\strategypattern\strategypattern\bin\Debug\strategypattern.exe
+C:\Users\caner\OneDrive\Masaüstü\strategypattern\strategypattern\bin\Debug\strategypattern.pdb
+C:\Users\caner\OneDrive\Masaüstü\strategypattern\strategypattern\obj\Debug\strategypattern.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\strategypattern\strategypattern\obj\Debug\strategypattern.exe
+C:\Users\caner\OneDrive\Masaüstü\strategypattern\strategypattern\obj\Debug\strategypattern.pdb

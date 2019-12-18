@@ -1,0 +1,12 @@
+C:\Users\caner\OneDrive\Masaüstü\PrototypeMethodExample\PrototypeMethodExample\bin\Debug\PrototypeMethodExample.exe.config
+C:\Users\caner\OneDrive\Masaüstü\PrototypeMethodExample\PrototypeMethodExample\bin\Debug\PrototypeMethodExample.exe
+C:\Users\caner\OneDrive\Masaüstü\PrototypeMethodExample\PrototypeMethodExample\bin\Debug\PrototypeMethodExample.pdb
+C:\Users\caner\OneDrive\Masaüstü\PrototypeMethodExample\PrototypeMethodExample\obj\Debug\PrototypeMethodExample.exe
+C:\Users\caner\OneDrive\Masaüstü\PrototypeMethodExample\PrototypeMethodExample\obj\Debug\PrototypeMethodExample.pdb
+C:\Users\caner\OneDrive\Masaüstü\PrototypeMethodExample\PrototypeMethodExample\obj\Debug\PrototypeMethodExample.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\PrototypeMethodExample\PrototypeMethodExample\bin\Debug\PrototypeMethodExample.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\PrototypeMethodExample\PrototypeMethodExample\obj\Debug\PrototypeMethodExample.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\PrototypeMethodExample\PrototypeMethodExample\obj\Debug\PrototypeMethodExample.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\PrototypeMethodExample\PrototypeMethodExample\bin\Debug\PrototypeMethodExample.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\PrototypeMethodExample\PrototypeMethodExample\bin\Debug\PrototypeMethodExample.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödevler\PrototypeMethodExample\PrototypeMethodExample\obj\Debug\PrototypeMethodExample.csprojResolveAssemblyReference.cache

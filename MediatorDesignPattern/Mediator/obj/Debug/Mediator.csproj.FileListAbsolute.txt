@@ -1,0 +1,6 @@
+C:\Users\caner\OneDrive\Masaüstü\Mediator\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Mediator\Mediator\bin\Debug\Mediator.exe
+C:\Users\caner\OneDrive\Masaüstü\Mediator\Mediator\bin\Debug\Mediator.pdb
+C:\Users\caner\OneDrive\Masaüstü\Mediator\Mediator\obj\Debug\Mediator.exe
+C:\Users\caner\OneDrive\Masaüstü\Mediator\Mediator\obj\Debug\Mediator.pdb
+C:\Users\caner\OneDrive\Masaüstü\Mediator\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache

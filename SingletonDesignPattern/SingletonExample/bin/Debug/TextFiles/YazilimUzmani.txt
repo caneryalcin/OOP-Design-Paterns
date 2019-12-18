@@ -1,0 +1,4 @@
+﻿Adı: Menekşe
+Soyadı: Şan
+Yaşı: 29
+İzin Günü Sayısı: 20
